@@ -3,6 +3,13 @@
  <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
     
 
+  ## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hetaotiepi&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hetaotiepi&hide_border=true&theme=radical" />
+</p>
+
     
 <!-- 动态图标-->
 <p align="center">
@@ -17,12 +24,7 @@
   <a href="https://github.com/shpatrickguo/shpatrickguo">  
 </p>
 
-  ## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hetaotiepi&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hetaotiepi&hide_border=true&theme=radical" />
-</p>
     
     
     
